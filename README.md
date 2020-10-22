@@ -35,7 +35,7 @@ ________________________________________________
 
 # Workflow:
 
-![alt text](https://github.com/bfaria13/EEG_trauma/images/Work.PNG?raw=true)
+!(../images/Work.PNG)
 
 > 1) Preprocessing EEG files:
 **- Preprocessing.ipynb
