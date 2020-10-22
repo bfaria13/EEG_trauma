@@ -42,6 +42,11 @@ ________________________________________________
 **- Preprocessing.ipynb**
 
 - Getting number and names of channels based on the international guideline:
+prefrontal = fp1,fp2
+frontal = f7,f3,f4,fz,f8
+central/temporal = t3,c3,cz,c4,t4
+parietal = t5,p3,pz,p4,t6
+occipital = o1,o2
 
 <img src="images/Electrodes.PNG" alt="My cool logo"/>
 
