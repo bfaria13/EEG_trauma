@@ -34,17 +34,17 @@ ________________________________________________
 
 # Workflow:
 
-1) Preprocessing EEG files:
+> 1) Preprocessing EEG files:
 - Preprocessing.ipynb
 
-2) Features Engineering:
+> 2) Features Engineering:
 - FeaturesEngineering.ipynb
 
-3) Analyzing Features:
+> 3) Exploratory Data Analysis:
 - AnalyzeFeatures.ipynb
 
-4) ML models:
--MLworkflow.ipynb
+> 4) ML models:
+- MLworkflow.ipynb
 
 # External link to CometML:
 
