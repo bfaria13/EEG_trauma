@@ -54,19 +54,31 @@ occipital = o1,o2
 
 **- FeaturesEngineering.ipynb**
 
-- Ratios bands
-- Coherence
-- Conectivity
+- Relative band power (Ratios)
+- Envelop spectrum of each bandT  
+- Spectral connectivity (Coherence)    
+- Psi
 
-> 3) Exploratory Data Analysis:
+> 3) Extraction of features:
 
-**- AnalyzeFeatures.ipynb**
+**-ExtractingFeatures.ipynb**
 
+- Compute ROC-AUC single features
+- Statictical tests
+- Selecting Features
+
+> 4) Exploratory Data Analysis:
+
+**- ExploratoryAnalysis.ipynb**
+
+- Commom features
 - Correlation
+- Distiguish between Trauma and Healthy
 
-> 4) ML models:
+> 5) ML models:
 
-**- MLworkflow.ipynb**
+**- MLpipeline.ipynb**
+
 
 # External link to CometML:
 
