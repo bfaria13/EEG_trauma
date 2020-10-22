@@ -32,9 +32,23 @@ This repo provide a step-by-step guide line to analyze EEG files to classify pat
 > Alexander Ledovsky, Research Engineer of Skolkovo Institute of Science and Technology (Skoltech), Moscow.
 ________________________________________________
 
-# About files:
+# Workflow:
 
+1) Preprocessing EEG files:
+- Preprocessing.ipynb
 
+2) Features Engineering:
+- FeaturesEngineering.ipynb
+
+3) Analyzing Features:
+- AnalyzeFeatures.ipynb
+
+4) ML models:
+-MLworkflow.ipynb
+
+# External link to CometML:
+
+XXXXXXXX
 
 
 ________________________________________________
