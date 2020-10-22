@@ -6,7 +6,6 @@ This repo provide a step-by-step guide line to analyze EEG files to classify pat
 
 > Bruna Faria – Experience with ML (classification/regression tasks), exploring data. PhD student in Computational and Data Science and Engineering (Skoltech).
 
-> J. Williamn ...
 
 ### Introduction
 
