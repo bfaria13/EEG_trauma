@@ -35,7 +35,7 @@ ________________________________________________
 
 # Workflow:
 
-![alt text](https://github.com/bfaria13/EEG_trauma/images/Workflow.jpg?raw=true)
+<img src="images/Workflow.jpg" alt="My cool logo"/>
 
 > 1) Preprocessing EEG files:
 
@@ -43,7 +43,7 @@ ________________________________________________
 
 - Getting number and names of channels based on the international guideline:
 
-![alt text](https://github.com/bfaria13/EEG_trauma/images/Electrodes.PNG?raw=true)
+<img src="images/Electrodes.PNG" alt="My cool logo"/>
 
 > 2) Features Engineering:
 
