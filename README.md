@@ -4,8 +4,8 @@ This repo provide a step-by-step guide line to analyze EEG files to classify pat
 
 ### Project team:
 
-> Bruna Faria – experience with ML (classification/regression tasks), exploring data
-> 
+> Bruna Faria – experience with ML (classification/regression tasks), exploring data. 
+> J. Williamn ...
 
 ### Introduction
 
@@ -34,17 +34,29 @@ ________________________________________________
 
 # Workflow:
 
+![alt text](https://github.com/bfaria13/EEG_trauma/images/image.jpg?raw=true)
+
 > 1) Preprocessing EEG files:
-- Preprocessing.ipynb
+**- Preprocessing.ipynb
+
+- Getting number and names of channels based on the international guideline:
+
+![alt text](https://github.com/bfaria13/EEG_trauma/images/image.jpg?raw=true)
 
 > 2) Features Engineering:
-- FeaturesEngineering.ipynb
+**- FeaturesEngineering.ipynb
+
+- Ratios bands
+- Coherence
+- Conectivity
 
 > 3) Exploratory Data Analysis:
-- AnalyzeFeatures.ipynb
+**- AnalyzeFeatures.ipynb
+
+- Correlation
 
 > 4) ML models:
-- MLworkflow.ipynb
+**- MLworkflow.ipynb
 
 # External link to CometML:
 
