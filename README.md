@@ -95,7 +95,7 @@ ________________________________________________
 
 > 1 Feature present in all (a-e): 'bands_beta_t3'
 
-<img src="images/Distribution.png" alt="My cool logo"/>
+<img src="images/EDA.png" alt="My cool logo"/>
 
 > One more dataset 'g' was generated using Random Forest Classification and Recursive Feature Elimination (29 features).
 
