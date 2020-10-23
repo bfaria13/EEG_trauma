@@ -74,17 +74,19 @@ occipital = o1,o2
 - Correlation
 - Distiguish between Trauma and Healthy
 
-> 5) ML models:
+> 5) ML classification models:
 
-**- MLpipeline.ipynb**
+**- MLClassification.ipynb**
 
 
 # External link to CometML:
 
 https://www.comet.ml/bfaria-eeg/eeg-trauma/1e547de6101a4dacabd63c6a475d0cf9?experiment-tab=images&imageId=bc482ca6289840f18e605db470f31e33
-
-
 ________________________________________________
+
+# RESULTS SUMMARY:
+
+<img src="images/Results.PNG" alt="My cool logo"/>
 
 #### References:
 
