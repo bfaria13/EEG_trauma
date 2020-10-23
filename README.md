@@ -27,7 +27,7 @@ This repo provide a step-by-step guide line to analyze EEG files to classify pat
 
 > As the final result, the ML pipeline able to explore significant predictors on the data and provide better-quality metrics for helping to distinguish people suffered from brain trauma in past from healthy controls.
 
-### Adviser:
+### Project Adviser:
 
 > Alexander Ledovsky, Research Engineer of Skolkovo Institute of Science and Technology (Skoltech), Moscow.
 ________________________________________________
@@ -81,7 +81,7 @@ occipital = o1,o2
 
 # External link to CometML:
 
-XXXXXXXX
+https://www.comet.ml/bfaria-eeg/eeg-trauma/1e547de6101a4dacabd63c6a475d0cf9?experiment-tab=images&imageId=bc482ca6289840f18e605db470f31e33
 
 
 ________________________________________________
