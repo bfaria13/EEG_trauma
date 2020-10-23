@@ -83,7 +83,7 @@ ________________________________________________
 
 # RESULTS SUMMARY:
 
-<img src="images/Results.PNG" alt="My cool logo"/>
+<img src="images/Results.png" alt="My cool logo"/>
 
 
 #### References:
