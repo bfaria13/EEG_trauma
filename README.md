@@ -75,15 +75,37 @@ prefrontal = fp1,fp2 | frontal = f7,f3,f4,fz,f8 | central/temporal = t3,c3,cz,c4
 
 **- MLClassification.ipynb**
 
-
-# External link to CometML:
-
-https://www.comet.ml/bfaria/eeg-trauma/view/
 ________________________________________________
 
 # RESULTS SUMMARY:
 
+> From preprocessing step was recorded 185 subjects to get features.
+
+> In features engineering was create a dataset with 1450 features.
+
+> Using different methods to feature extraction was generated 5 datasets:
+
+* a) Features from ROC-AUC > 0.70: 133 features
+* b) Features from paired test: 173 features
+* c) Features from z-test: 164 features
+* d) Features with correlation < 0.75: 107 features
+* e) Features from correlation with p-value < 0.05: 26 features
+
+> 6 Commom features for a,b,c,d generating dataset 'f': 'coh_nofilt_fp1_f7', 'coh_nofilt_f8_t4', 'env_nofilt_c4_t6', 'env_nofilt_t4_p4', 'env_beta_fp1_c4', 'bands_beta_t3'
+
+> 1 Feature present in all (a-e): 'bands_beta_t3'
+
+<img src="images/Distribution.png" alt="My cool logo"/>
+
+> One more dataset 'g' was generated using Random Forest Classification and Recursive Feature Elimination (29 features).
+
+> The datasets: all features, correlation with p-value (e), intersection (f) and recursive (g); was submited to ML classification methods.
+
 > All results are showed in cometML.
+
+# External link to CometML:
+
+https://www.comet.ml/bfaria/eeg-trauma/view/
 
 _________________________________________________
 #### References:
