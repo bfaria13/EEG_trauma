@@ -78,12 +78,12 @@ prefrontal = fp1,fp2 | frontal = f7,f3,f4,fz,f8 | central/temporal = t3,c3,cz,c4
 
 # External link to CometML:
 
-https://www.comet.ml/bfaria-eeg/eeg-trauma/1e547de6101a4dacabd63c6a475d0cf9?experiment-tab=images&imageId=bc482ca6289840f18e605db470f31e33
+https://www.comet.ml/bfaria/eeg-trauma/view/new
 ________________________________________________
 
 # RESULTS SUMMARY:
 
-<img src="images/Results.png" alt="My cool logo"/>
+<img src="images/AllResults.png" alt="My cool logo"/>
 
 
 #### References:
