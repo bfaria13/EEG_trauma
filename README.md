@@ -78,14 +78,14 @@ prefrontal = fp1,fp2 | frontal = f7,f3,f4,fz,f8 | central/temporal = t3,c3,cz,c4
 
 # External link to CometML:
 
-https://www.comet.ml/bfaria/eeg-trauma/view/new
+https://www.comet.ml/bfaria/eeg-trauma/view/
 ________________________________________________
 
 # RESULTS SUMMARY:
 
-<img src="images/AllResults.png" alt="My cool logo"/>
+> All results are showed in cometML.
 
-
+_________________________________________________
 #### References:
 
 - Dhivya, S., & Nithya, A. (2018). A Review on Machine Learning Algorithm for EEG Signal Analysis. Proceedings of the 2nd International Conference on Electronics, Communication and Aerospace Technology, ICECA 2018. https://doi.org/10.1109/ICECA.2018.8474801
